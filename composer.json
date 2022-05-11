@@ -1,0 +1,16 @@
+{
+    "name": "marac/ninja-package",
+    "type": "library",
+    "description": "This plugin package provides elements for Ninja Forms plugin.",
+    "homepage": "https://github.com/ninja-package",
+    "keywords": [
+        "convoworks"
+    ],
+    "version": "1.0.0",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Convo\\Pckg\\NinjaPackage\\": "src/Convo/Pckg/NinjaPackage"
+        }
+    }
+}

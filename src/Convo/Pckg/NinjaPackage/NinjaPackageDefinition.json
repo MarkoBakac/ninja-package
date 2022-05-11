@@ -1,0 +1,10 @@
+{
+    "namespace": "ninja-package",
+    "author": "Marko Bakac",
+    "email": "markobakac123@gmail.com",
+    "source_for": [
+        "functions", "intents", "entities", "templates", "elements"
+    ],
+    "description": "Contains elements for the services which use the Ninja Forms plugin.",
+    "stability": "stable"
+}
